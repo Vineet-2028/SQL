@@ -5,7 +5,7 @@
    performing mathematical operations and formatting numerical values.
 
    Table of Contents:
-     1. Rounding Functions
+     1. Rounding Functions 
         - ROUND
      2. Absolute Value Function
         - ABS
