@@ -10,7 +10,7 @@
      3. WHERE CLAUSE
      4. ORDER BY
      5. GROUP BY
-     6. HAVING
+     6. HAVING 
      7. DISTINCT
      8. TOP
      9. Combining Queries
